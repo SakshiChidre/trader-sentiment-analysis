@@ -1,6 +1,7 @@
 # Trader Performance vs Market Sentiment
 **Primetrade.ai Data Science Intern Assignment**
 
+
 ## Overview
 Analysis of how Bitcoin market sentiment (Fear/Greed) affects trader 
 behavior and performance on Hyperliquid.
